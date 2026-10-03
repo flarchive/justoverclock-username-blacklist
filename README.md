@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of justoverclock/username-blacklist.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/username-blacklist) or the [upstream repository](https://github.com/justoverclockl/username-blacklist).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/justoverclock-username-blacklist/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/justoverclock-username-blacklist/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-23 | `^1.0` | [Browse](https://github.com/flarchive/justoverclock-username-blacklist/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/justoverclock-username-blacklist.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-username-blacklist.json)
 
